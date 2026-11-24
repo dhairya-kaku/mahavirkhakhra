@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mahavirkhakhra.vercel.app/sitemap.xml
